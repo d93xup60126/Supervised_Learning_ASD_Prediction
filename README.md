@@ -3,25 +3,16 @@
 DTSA 5509 Final Project
 
 ## Table of Contents
-1. Project Topic
-2. Data
-   - Import Libraries and Read Data
-3. Data Cleaning
-   - Check Unique Values
-   - Check for NaN Values
-   - Data Transformation
-4. Exploratory Data Analysis
-   - Check for Imbalance
-   - Address Collinearity
-5. Models
-   - KNN
-   - Decision Tree
-   - SVM
-   - Gradient Boosting
-   - Random Forest
-   - ANN
-6. Results and Analysis
-7. Discussion and Conclusion
+1. Brief description of the problem and data
+2. Exploratory Data Analysis (EDA)
+   - Check for Missing Values
+   - Visualizations
+   - Data Preprocessing
+3. Model Architecture
+   - First Model
+   - Second Model
+4. Results and Analysis
+5. Conclusion
 
 ## Dataset
-ASD children traits: <https://www.kaggle.com/datasets/uppulurimadhuri/dataset/data>
+ASD children traits: <https://www.kaggle.com/c/histopathologic-cancer-detection/data>
